@@ -1,4 +1,2 @@
-pyyaml
-opencv-python
-numpy
-scikit-learn
+fastapi
+uvicorn[standard]
