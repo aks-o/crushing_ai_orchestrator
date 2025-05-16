@@ -1,23 +1,18 @@
+# api/main.py
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import FileResponse
+from fastapi.staticfiles import StaticFiles
+import os
 
 app = FastAPI()
 
-# Allow frontend (React) to call this backend
-app.add_middleware(
-    CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
-)
+# Serve built React static files
+app.mount("/frontend", StaticFiles(directory="frontend", html=True), name="frontend")
 
-@app.get("/metrics")
-def get_metrics():
-    return {
-        "throughput": 500,
-        "oversizePercent": 9.2,
-        "cubicity": 87.4,
-        "wearRate": 2.1,
-        "alerts": ["Liner wear high", "Oversize above limit"]
-    }
+@app.get("/")
+async def read_root():
+    return {"message": "Welcome to Crushing AI Orchestrator API"}
+
+@app.get("/ui")
+async def serve_dashboard():
+    return FileResponse(os.path.join("frontend", "index.html"))

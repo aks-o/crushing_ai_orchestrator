@@ -1,7 +1,4 @@
-from fastapi import FastAPI
-from fastapi.staticfiles import StaticFiles
+# serve.py
 from api.main import app as backend
 
-app = FastAPI()
-app.mount("/api", backend)
-app.mount("/", StaticFiles(directory="frontend", html=True), name="static")
+app = backend  # 👈 used by uvicorn as "serve:app"
