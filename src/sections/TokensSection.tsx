@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Layers, Copy, Check, Box, Move, Radius, Sun, Clock } from 'lucide-react';
+import { Layers, Copy, Check, Box, Move, Radius, Shadow, Clock } from 'lucide-react';
 import { useBrandStore } from '../store/brandStore';
 import { cn, copyToClipboard } from '../lib/utils';
 
@@ -102,7 +102,7 @@ export default function TokensSection() {
         {tokens.shadows && (
           <TokenGroup
             title="Shadows"
-            icon={Sun}
+            icon={Shadow}
             tokens={tokens.shadows}
             onCopy={handleCopy}
             copiedValue={copiedValue}

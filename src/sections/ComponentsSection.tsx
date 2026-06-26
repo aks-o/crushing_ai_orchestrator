@@ -1,8 +1,7 @@
 import React from 'react';
-import { Box, ToggleLeft, AlertCircle, CheckCircle, Info, XCircle } from 'lucide-react';
+import { Box, Button as ButtonIcon, Check, ChevronDown, AlertCircle } from 'lucide-react';
 import { useBrandStore } from '../store/brandStore';
 import { Button } from '../components/ui/Button';
-import { cn } from '../lib/utils';
 
 export default function ComponentsSection() {
   const { currentBrand } = useBrandStore();
@@ -19,7 +18,6 @@ export default function ComponentsSection() {
 
   return (
     <div className="space-y-8">
-      {/* Header */}
       <div>
         <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
           UI Components
@@ -31,12 +29,7 @@ export default function ComponentsSection() {
 
       {/* Buttons */}
       <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
-        <div className="flex items-center gap-3 mb-6">
-          <div className="w-10 h-10 rounded-lg bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center">
-            <Box className="w-5 h-5 text-blue-600 dark:text-blue-400" />
-          </div>
-          <h3 className="text-lg font-semibold text-slate-900 dark:text-white">Buttons</h3>
-        </div>
+        <h3 className="text-lg font-semibold text-slate-900 dark:text-white mb-4">Buttons</h3>
         <div className="flex flex-wrap gap-4">
           <Button>Primary Button</Button>
           <Button variant="secondary">Secondary</Button>
@@ -48,34 +41,38 @@ export default function ComponentsSection() {
 
       {/* Alerts */}
       <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
-        <div className="flex items-center gap-3 mb-6">
-          <div className="w-10 h-10 rounded-lg bg-orange-100 dark:bg-orange-900/30 flex items-center justify-center">
-            <AlertCircle className="w-5 h-5 text-orange-600 dark:text-orange-400" />
-          </div>
-          <h3 className="text-lg font-semibold text-slate-900 dark:text-white">Alerts</h3>
-        </div>
+        <h3 className="text-lg font-semibold text-slate-900 dark:text-white mb-4">Alerts</h3>
         <div className="space-y-4">
-          <div className="flex items-start gap-3 p-4 bg-blue-50 dark:bg-blue-900/20 text-blue-800 dark:text-blue-200 rounded-lg">
-            <Info className="w-5 h-5 flex-shrink-0 mt-0.5" />
-            <div>
-              <p className="font-medium">Information</p>
-              <p className="text-sm opacity-90">This is an informational alert message.</p>
-            </div>
+          <div className="flex items-center gap-3 p-4 bg-blue-50 dark:bg-blue-900/20 text-blue-700 dark:text-blue-300 rounded-lg">
+            <AlertCircle className="w-5 h-5" />
+            <p className="text-sm">This is an informational alert message.</p>
           </div>
-          <div className="flex items-start gap-3 p-4 bg-green-50 dark:bg-green-900/20 text-green-800 dark:text-green-200 rounded-lg">
-            <CheckCircle className="w-5 h-5 flex-shrink-0 mt-0.5" />
-            <div>
-              <p className="font-medium">Success</p>
-              <p className="text-sm opacity-90">Your changes have been saved successfully.</p>
-            </div>
+          <div className="flex items-center gap-3 p-4 bg-green-50 dark:bg-green-900/20 text-green-700 dark:text-green-300 rounded-lg">
+            <Check className="w-5 h-5" />
+            <p className="text-sm">Success! Your action was completed.</p>
           </div>
-          <div className="flex items-start gap-3 p-4 bg-red-50 dark:bg-red-900/20 text-red-800 dark:text-red-200 rounded-lg">
-            <XCircle className="w-5 h-5 flex-shrink-0 mt-0.5" />
-            <div>
-              <p className="font-medium">Error</p>
-              <p className="text-sm opacity-90">Something went wrong. Please try again.</p>
-            </div>
-          </div>
+        </div>
+      </div>
+
+      {/* Badges */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <h3 className="text-lg font-semibold text-slate-900 dark:text-white mb-4">Badges</h3>
+        <div className="flex flex-wrap gap-2">
+          <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 dark:bg-blue-900/30 text-blue-700 dark:text-blue-300">
+            Primary
+          </span>
+          <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300">
+            Success
+          </span>
+          <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-yellow-100 dark:bg-yellow-900/30 text-yellow-700 dark:text-yellow-300">
+            Warning
+          </span>
+          <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-red-100 dark:bg-red-900/30 text-red-700 dark:text-red-300">
+            Error
+          </span>
+          <span className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-300">
+            Neutral
+          </span>
         </div>
       </div>
     </div>
