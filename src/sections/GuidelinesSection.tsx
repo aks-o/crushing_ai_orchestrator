@@ -17529,4 +17529,12240 @@ export default function GuidelinesSection() {
 
           <div className="text-center">
             <div className="w-16 h-16 mx-auto mb-3 rounded-2xl bg-green-100 dark:bg-green-900/30 flex items-center justify-center">
-              <Type className="w-8 h-8 text-green-600 dark
+              <Type className="w-8 h-8 text-green-600 darkimportimport Reactimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function Guidelinesimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  constimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } =import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    returnimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <divimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex itemsimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <pimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-simport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:textimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</pimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </divimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  constimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color forimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and importantimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using theimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid systemimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Useimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titlesimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for contentimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensureimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibilityimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Applyimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across componentsimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const dontsimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t useimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colorsimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside theimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort theimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t placeimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds withoutimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t useimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelinesimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clearimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      descriptionimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarityimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon andimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      exampleimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20%import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachableimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintainingimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      exampleimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started onimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      descriptionimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users toimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidenceimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example:import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial todayimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required.import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  returnimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div classimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 classNameimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl fontimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 darkimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, andimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/*import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div classimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-colsimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/*import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div classNameimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border borderimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:borderimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <divimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex itemsimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <divimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 roundedimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 fleximport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check classNameimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 himport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <himport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lgimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((itemimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={indeximport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex itemsimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-greenimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Checkimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <spanimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bgimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 roundedimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 pimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <divimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-centerimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div classimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 himport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-redimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justifyimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <Ximport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white"import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 classNameimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semiboldimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:textimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'tsimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ulimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {dontimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index)import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <liimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} classNameimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 darkimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 fleximport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </liimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </divimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voiceimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <divimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white darkimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 roundedimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <divimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10 h-10 rounded-lg bgimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10 h-10 rounded-lg bg-blue-100 dark:bg-blueimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10 h-10 rounded-lg bg-blue-100 dark:bg-blue-900/30 flex itemsimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10 h-10 rounded-lg bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center">
+            <Messageimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10 h-10 rounded-lg bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center">
+            <MessageSquare className="w-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10 h-10 rounded-lg bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center">
+            <MessageSquare className="w-5 h-5 text-blueimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10 h-10 rounded-lg bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center">
+            <MessageSquare className="w-5 h-5 text-blue-600 dark:text-blue-import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10 h-10 rounded-lg bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center">
+            <MessageSquare className="w-5 h-5 text-blue-600 dark:text-blue-400" />
+          </import React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10 h-10 rounded-lg bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center">
+            <MessageSquare className="w-5 h-5 text-blue-600 dark:text-blue-400" />
+          </div>
+          <himport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10 h-10 rounded-lg bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center">
+            <MessageSquare className="w-5 h-5 text-blue-600 dark:text-blue-400" />
+          </div>
+          <h3 className="text-lg fontimport React from 'react';
+import { BookOpen, Check, X, Lightbulb, MessageSquare, Palette, Type, Image as ImageIcon } from 'lucide-react';
+import { useBrandStore } from '../store/brandStore';
+import { cn } from '../lib/utils';
+
+export default function GuidelinesSection() {
+  const { currentBrand } = useBrandStore();
+
+  if (!currentBrand) {
+    return (
+      <div className="flex items-center justify-center h-64">
+        <p className="text-slate-500 dark:text-slate-400">No brand selected</p>
+      </div>
+    );
+  }
+
+  const dos = [
+    'Use the primary color for main CTAs and important actions',
+    'Maintain consistent spacing using the 8px grid system',
+    'Use heading font for all titles and body font for content',
+    'Ensure sufficient color contrast for accessibility',
+    'Apply consistent border radius across components',
+  ];
+
+  const donts = [
+    'Don\'t use more than 3 colors in a single component',
+    'Don\'t use fonts outside the defined type system',
+    'Don\'t stretch or distort the logo',
+    'Don\'t place text over busy backgrounds without proper contrast',
+    'Don\'t use inconsistent spacing or alignment',
+  ];
+
+  const voiceGuidelines = [
+    {
+      title: 'Clear & Direct',
+      description: 'Communicate with clarity and purpose. Avoid jargon and unnecessary complexity.',
+      example: '"Save 20% on your first purchase"',
+    },
+    {
+      title: 'Approachable',
+      description: 'Be friendly and welcoming while maintaining professionalism.',
+      example: '"Welcome! Let\'s get you started on your journey."',
+    },
+    {
+      title: 'Action-Oriented',
+      description: 'Encourage users to take the next step with confidence.',
+      example: '"Start your free trial today - no credit card required."',
+    },
+  ];
+
+  return (
+    <div className="space-y-8">
+      {/* Header */}
+      <div>
+        <h2 className="text-2xl font-bold text-slate-900 dark:text-white mb-2">
+          Brand Guidelines
+        </h2>
+        <p className="text-slate-500 dark:text-slate-400">
+          Voice, tone, and usage guidelines for your brand
+        </p>
+      </div>
+
+      {/* Do's and Don'ts */}
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {/* Do's */}
+        <div className="bg-green-50 dark:bg-green-900/20 rounded-xl border border-green-200 dark:border-green-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-green-500 flex items-center justify-center">
+              <Check className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-green-900 dark:text-green-100">Do's</h3>
+          </div>
+          <ul className="space-y-3">
+            {dos.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-green-800 dark:text-green-200">
+                <Check className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        {/* Don'ts */}
+        <div className="bg-red-50 dark:bg-red-900/20 rounded-xl border border-red-200 dark:border-red-800 p-6">
+          <div className="flex items-center gap-3 mb-4">
+            <div className="w-10 h-10 rounded-lg bg-red-500 flex items-center justify-center">
+              <X className="w-5 h-5 text-white" />
+            </div>
+            <h3 className="text-lg font-semibold text-red-900 dark:text-red-100">Don'ts</h3>
+          </div>
+          <ul className="space-y-3">
+            {donts.map((item, index) => (
+              <li key={index} className="flex items-start gap-2 text-red-800 dark:text-red-200">
+                <X className="w-4 h-4 mt-0.5 flex-shrink-0" />
+                <span className="text-sm">{item}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+
+      {/* Voice & Tone */}
+      <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+        <div className="flex items-center gap-3 mb-6">
+          <div className="w-10 h-10 rounded-lg bg-blue-100 dark:bg-blue-900/30 flex items-center justify-center">
+            <MessageSquare className="w-5 h-5 text-blue-600 dark:text-blue-400" />
+          </div>
+          <h3 className="text-lg font-semibold text-slate-
