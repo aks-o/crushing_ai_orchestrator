@@ -15,6 +15,7 @@ export default function LogoSection() {
   }
 
   const primaryColor = currentBrand.colors?.primary?.[500] || '#3B82F6';
+  const firstLetter = currentBrand.name.charAt(0).toUpperCase();
 
   return (
     <div className="space-y-8">
@@ -24,42 +25,54 @@ export default function LogoSection() {
             Logo Concepts
           </h2>
           <p className="text-slate-500 dark:text-slate-400">
-            AI-generated logo ideas and variations
+            AI-generated logo concepts and variations
           </p>
         </div>
-        <div className="flex items-center gap-2">
-          <Button variant="outline" size="sm">
-            <RefreshCw className="w-4 h-4 mr-2" />
-            Generate New
-          </Button>
-        </div>
+        <Button variant="outline" size="sm">
+          <RefreshCw className="w-4 h-4 mr-2" />
+          Regenerate
+        </Button>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-        {[1, 2, 3].map((i) => (
-          <div key={i} className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 overflow-hidden">
-            <div className="aspect-square bg-slate-100 dark:bg-slate-800 flex items-center justify-center">
-              <div
-                className="w-32 h-32 rounded-2xl flex items-center justify-center text-white text-4xl font-bold"
-                style={{ backgroundColor: primaryColor }}
-              >
-                {currentBrand.name.charAt(0).toUpperCase()}
-              </div>
-            </div>
-            <div className="p-4">
-              <h3 className="font-semibold text-slate-900 dark:text-white mb-1">
-                Concept {i}
-              </h3>
-              <p className="text-sm text-slate-500 dark:text-slate-400 mb-3">
-                Initial lettermark concept with rounded corners
-              </p>
-              <Button variant="outline" size="sm" className="w-full">
-                <Download className="w-4 h-4 mr-2" />
-                Download SVG
-              </Button>
-            </div>
+        {/* Primary Logo */}
+        <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+          <div className="aspect-square rounded-xl flex items-center justify-center mb-4" style={{ backgroundColor: primaryColor }}>
+            <span className="text-8xl font-bold text-white">{firstLetter}</span>
           </div>
-        ))}
+          <h3 className="font-semibold text-slate-900 dark:text-white mb-1">Primary Logo</h3>
+          <p className="text-sm text-slate-500 dark:text-slate-400 mb-4">Main brand mark</p>
+          <Button variant="outline" size="sm" className="w-full">
+            <Download className="w-4 h-4 mr-2" />
+            Download SVG
+          </Button>
+        </div>
+
+        {/* Monochrome */}
+        <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+          <div className="aspect-square rounded-xl bg-slate-100 dark:bg-slate-800 flex items-center justify-center mb-4">
+            <span className="text-8xl font-bold text-slate-900 dark:text-white">{firstLetter}</span>
+          </div>
+          <h3 className="font-semibold text-slate-900 dark:text-white mb-1">Monochrome</h3>
+          <p className="text-sm text-slate-500 dark:text-slate-400 mb-4">Single color version</p>
+          <Button variant="outline" size="sm" className="w-full">
+            <Download className="w-4 h-4 mr-2" />
+            Download SVG
+          </Button>
+        </div>
+
+        {/* Dark Mode */}
+        <div className="bg-white dark:bg-slate-900 rounded-xl border border-slate-200 dark:border-slate-800 p-6">
+          <div className="aspect-square rounded-xl bg-slate-900 flex items-center justify-center mb-4">
+            <span className="text-8xl font-bold text-white">{firstLetter}</span>
+          </div>
+          <h3 className="font-semibold text-slate-900 dark:text-white mb-1">Dark Mode</h3>
+          <p className="text-sm text-slate-500 dark:text-slate-400 mb-4">Inverted for dark backgrounds</p>
+          <Button variant="outline" size="sm" className="w-full">
+            <Download className="w-4 h-4 mr-2" />
+            Download SVG
+          </Button>
+        </div>
       </div>
     </div>
   );
